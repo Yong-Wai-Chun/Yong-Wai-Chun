@@ -1,6 +1,6 @@
 ## Sup?
 
-Nothing much to see here, but you can expect more to come.
+Nothing much to see here YET, but you can expect more to come.
 
 <!--
 **Yong-Wai-Chun/Yong-Wai-Chun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
