@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="65%" src="https://github.com/Yong-Wai-Chun/Yong-Wai-Chun/blob/main/hd%20wallpaper%20Cyberpunk%20(5).jpg?raw=true?raw=true">
+  <br> Figure 1: Final Fantasy Crisis Core
+</p>
+
 ## Sup?
 
 Nothing much to see here YET, but you can expect more to come.
