@@ -1,23 +1,31 @@
 <p align="center">
-  <img width="65%" src="https://github.com/Yong-Wai-Chun/Yong-Wai-Chun/blob/main/hd%20wallpaper%20Cyberpunk%20(5).jpg?raw=true?raw=true">
-  <br> Figure 1: Final Fantasy Crisis Core
+  <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
 </p>
 
-## Sup?
+<hr>
+<h1 align="center"> Hey, I'm Yong Wai Chun. </h1>
 
-Nothing much to see here YET, but you can expect more to come.
+## About Me:
+- 🎓Computer scientist graduated from Multimedia University specialized in Data Science.
+- 👨‍💻 Machine Learning practitioner.
+- 💻Python, Java, C++, R, SQL.
+- 🤖Interest in Artificial Intelligence. 
+- 📹Video Editor - Formats = (Industrial, Commercial, Shorts, Skits, Advertisement).
 
-<!--
-**Yong-Wai-Chun/Yong-Wai-Chun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/python.png?raw=true"> </p>
+<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/java.png?raw=true"> </p>
+<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/C++.png?raw=true"> </p>
+<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/r.png?raw=true"> </p>
+
+<br>
+
+## Contacts:
+<a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '35px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
+<a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
+
