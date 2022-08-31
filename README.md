@@ -9,8 +9,8 @@
 - 🎓Computer scientist graduated from Multimedia University specialized in Data Science.
 - 👨‍💻 Machine Learning practitioner.
 - 💻Python, Java, C++, R, SQL.
-- 🤖Interest in Artificial Intelligence. 
-- 📹Video Editor - Formats = (Industrial, Commercial, Shorts, Skits, Advertisement).
+- 🤖Interested in Artificial Intelligence. 
+- 📹Video Editor - Formats -> (Industrial, Commercial, Shorts, Skits, Advertisement).
 
 
 <p align="center">
