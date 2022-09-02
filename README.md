@@ -12,7 +12,7 @@
 - 🤖Interested in Artificial Intelligence. 
 - 📹Video Editing - Formats -> (Industrial, Commercial, Shorts, Skits, Advertisement).
 
-## Skills:
+## Skills & Status:
 <p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/python.png?raw=true"> </p>
 <p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/java.png?raw=true"> </p>
 <p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/C++.png?raw=true"> </p>
