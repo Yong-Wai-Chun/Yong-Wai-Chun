@@ -3,19 +3,14 @@
 </p>
 
 <hr>
-<h1 align="center"> Hey, I'm Yong Wai Chun. </h1>
+<h1 align="center"> Greetings, I'm Yong Wai Chun. </h1>
 
 ## About Me:
 - 🎓Computer scientist graduated from Multimedia University specialized in Data Science.
 - 👨‍💻 Machine Learning practitioner.
-- 💻Python, Java, C++, R, SQL.
+- 💻Python(Pytorch, Keras, OpenCV, TensorFlow), Java(Swing, JavaFX), C++, R, SQL.
 - 🤖Interested in Artificial Intelligence. 
-- 📹Video Editor - Formats -> (Industrial, Commercial, Shorts, Skits, Advertisement).
-
-
-<p align="center">
-  <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
-</p>
+- 📹Video Editing - Formats -> (Industrial, Commercial, Shorts, Skits, Advertisement).
 
 ## Skills:
 <p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/python.png?raw=true"> </p>
@@ -29,3 +24,8 @@
 <a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '35px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
 <a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
 
+<br><br><br>
+
+<p align="center">
+  <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
+</p>
