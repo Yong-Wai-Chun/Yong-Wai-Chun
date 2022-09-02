@@ -20,6 +20,10 @@
 
 <br>
 
+[![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+
 ## Contacts:
 <a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '35px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
 <a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
