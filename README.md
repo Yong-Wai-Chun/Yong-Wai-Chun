@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
+  <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
 </p>
 
 <hr>
@@ -27,5 +27,5 @@
 <br><br><br>
 
 <p align="center">
-  <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
+  <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
 </p>
