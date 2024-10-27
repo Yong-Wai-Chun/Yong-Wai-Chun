@@ -1,35 +1,53 @@
 <p align="center">
-  <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/gits.gif?raw=true">
+  <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/462537959_1540111993534288_5113766519434616187_n.jpg?raw=true">
 </p>
 
-<hr>
-<h1 align="center"> Greetings, I'm Yong Wai Chun. </h1>
+``` Shell
+Yong@localhost# Booting [#########################################################################################################]
+Yong@localhost# Initializing [####################################################################################################]
+.
+.
+.
+DONE!
+He 01101100 01101100 o, Wor 01101100 d! 
+```
 
-## About Me:
-- 🎓Computer scientist graduated from Multimedia University specialized in Data Science.
-- 👨‍💻 Machine Learning practitioner.
-- 💻Python(Pytorch, Keras, OpenCV, TensorFlow), Java(Swing, JavaFX), C++, R, SQL.
-- 🤖Interested in Artificial Intelligence. 
-- 📹Video Editing - Formats -> (Industrial, Commercial, Shorts, Skits, Advertisement).
+<h1 align="center">
+  Welcome to my 127.0.0.1
+</h1>
 
-## Skills & Status:
-<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/python.png?raw=true"> </p>
-<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/java.png?raw=true"> </p>
-<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/C++.png?raw=true"> </p>
-<p align="left"> <img width="5%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/r.png?raw=true"> </p>
 
-<br>
+## Chapter I: A Digital Odyssey of Him
+<p align="center">
+  <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/forgorian.jpg?raw=true">
+</p>
+<p align="justify">
+Humble Computer Scientist graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
+</p>
 
-[![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+## Chapter II: Statistical Data Analysis of Him
+<div align="center">
+  
+  [![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun)](https://github.com/Yong-Wai-Chun/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun)](https://github.com/Yong-Wai-Chun/github-readme-stats)
-
-## Contacts:
-<a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '35px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
-<a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align= 'left' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
-
-<br><br><br>
+  <p align="center">
+    <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
+  </p>
+  
+</div>
 
 <p align="center">
-  <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
+  <i>"Are we ready to be its maker, for IT who shall decide?"</i>
 </p>
+
+
+## Contacts:
+
+<a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '50px' align= 'center' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
+<a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align='center' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
+
+
+
+
