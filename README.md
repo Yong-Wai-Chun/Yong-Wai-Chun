@@ -8,8 +8,9 @@ Yong@localhost# Initializing [##################################################
 .
 .
 .
-DONE!
-He 01101100 01101100 o, Wor 01101100 d! 
+01000100 01001111 01001110 01000101
+Proceed? [Y/n]# Y
+>Hello, World!<
 ```
 
 <h1 align="center">
