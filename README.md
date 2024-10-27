@@ -23,7 +23,7 @@ Proceed? [Y/n]# Y
   <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/forgorian.jpg?raw=true">
 </p>
 <p align="justify">
-Humble Computer Scientist graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
+Humble Computer Science graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
 </p>
 
 ## Chapter II: Statistical Data Analysis of Him
