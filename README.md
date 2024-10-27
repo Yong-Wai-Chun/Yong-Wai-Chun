@@ -18,7 +18,7 @@ Proceed? [Y/n]# Y
 </h1>
 
 
-## Chapter I: A Digital Odyssey of Him
+## Chapter I: A Digital Odyssey
 <p align="center">
   <img width="70%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/forgorian.jpg?raw=true">
 </p>
@@ -26,7 +26,7 @@ Proceed? [Y/n]# Y
 Humble Computer Science graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
 </p>
 
-## Chapter II: Statistical Data Analysis of Him
+## Chapter II: Statistical Data Analysis
 <div align="center">
   
   [![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
