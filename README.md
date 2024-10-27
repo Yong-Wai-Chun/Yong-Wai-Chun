@@ -46,7 +46,7 @@ Humble Computer Science graduate from Multimedia University specialized in Data 
 
 ## Contacts:
 
-<a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '40px' align= 'center' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
+<a href = 'https://www.linkedin.com/in/yong-wai-chun-5ab048241'> <img width = '35px' align= 'center' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/linkedin.png?raw=true"/></a> 
 <a href = 'https://github.com/Yong-Wai-Chun'> <img width = '40px' align='center' src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/github.png?raw=true"/></a>
 
 
