@@ -41,46 +41,27 @@ Humble Computer Science graduate from Multimedia University specialized in Data 
   <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/c1d3876d-2a7c-4325-9114-749d84bb2194.jpg?raw=true">
 </p>
 
-```
-+=========================================+
-|+---------------------------------------+|
-||               Python                  ||
-||             DL (CNN/ViT)              ||
-||      ML (XGBoost/LR/RF/SVM/NB/DT)     ||
-||          Genetic Algorithm            ||
-|+---------------------------------------+|
-|              *Data & AI*                |
-+=========================================+
-|+---------------------------------------+|
-||                MySQL                  ||
-|+---------------------------------------+|
-|              *Database*                 |
-+=========================================+
-|+---------------------------------------||
-||                  R                    ||
-||                 C++                   ||
-||               Flutter                 ||
-||               Python                  ||
-||             	  JAVA                   ||
-|+---------------------------------------+|
-|         *Programming Language*          |
-+=========================================+
-|+---------------------------------------+|
-||                TCP/IP                 ||
-||              WireShark                ||
-||          Application Layers           ||
-||      Software-Define Networking       ||
-|+---------------------------------------+|
-|                *Network*                |
-+=========================================+
-|+---------------------------------------+|
-||  RedHat OpenShift Container Platform  ||
-||                UbuntU                 ||
-||                Debian                 ||
-|+---------------------------------------+|
-|                  *OS*                   |
-+=========================================+
-```
+Database:
+
+![Static Badge](https://img.shields.io/badge/MySQL-teal?style=for-the-badge&logo=mysql&logoColor=white)
+
+Programming Language:
+
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)![Static Badge](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=R&logoColor=white)![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=red)![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)![Static Badge](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue)
+
+Network:
+
+![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=wireshark&logoColor=white)![Static Badge](https://img.shields.io/badge/OSI--7-white?style=for-the-badge&logo=cisco&logoColor=blue)![Static Badge](https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=tailscale&logoColor=white)
+
+
+OS:
+
+![Static Badge](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian&logoColor=red)![Static Badge](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
+
+
+
+
 - Experienced on handling OS related tasks like OS installations not limited to Windows, UbuntU and Debian, storage partition, disk deep formatting and virtual machine installation. 
 - Have a good understanding on virtualization and containerization, skilled in operating and maintaining pods and containers.
 - Performed various network related tasks from the lowest layer to the highest layer of the OSI 7 model, IP network connectivity and routing, applications links integration such as HTTP, Diameter, M3UA etc.
