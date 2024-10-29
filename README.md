@@ -29,9 +29,11 @@ Humble Computer Science graduate from Multimedia University specialized in Data 
 ## Chapter II: Statistical Data Analysis
 <div align="center">
   
-  [![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+  [![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&theme=dark&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun&theme=dark)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+
+  [![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Yong-Wai-Chun&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Yong-Wai-Chun/github-readme-stats)
   
 </div>
 
