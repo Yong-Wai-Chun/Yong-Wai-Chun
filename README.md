@@ -1,7 +1,7 @@
 # A Digital Odyssey
 
 <h1 align="center">
-  Welcome to my 127.0.0.1
+  Welcome To My Personal 127.0.0.1
 </h1>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 ``` Shell
-BIOS: POST (Power-On Self-Test)
-UEFI: Loading bootloader
-GRUB loading /boot/vmlinuz...
+[   OK   ] BIOS: POST (Power-On Self-Test)
+[   OK   ] UEFI: Loading bootloader
+[   OK   ] GRUB loading /boot/vmlinuz...
 
 [   OK   ] Dawn of code…  
 [   OK   ] Kernel of curiosity loaded  
@@ -21,6 +21,9 @@ GRUB loading /boot/vmlinuz...
 [   OK   ] Initiating projects… compiling creativity  
 [   OK   ] Paths of growth established  
 [   OK   ] Ready for exploration. Welcome.  
+
+Yong@localhost:~$
+Yong@localhost:~$
 Yong@localhost:~$
 Yong@localhost:~$ cd /
 Yong@localhost:/$ cat WelcomeScript.sh
