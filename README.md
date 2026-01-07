@@ -1,7 +1,6 @@
-# A Digital Odyssey
-
 <h1 align="center">
   Welcome To My Personal 127.0.0.1
+  A Digital Odyssey
 </h1>
 
 <p align="center">
