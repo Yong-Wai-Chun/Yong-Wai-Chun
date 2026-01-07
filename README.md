@@ -1,3 +1,5 @@
+# A Digital Odyssey
+
 <h1 align="center">
   Welcome to my 127.0.0.1
 </h1>
@@ -7,18 +9,29 @@
 </p>
 
 ``` Shell
-Yong@localhost# Booting [################################################################################################]
-Yong@localhost# Initializing [###########################################################################################]
-.
-.
-.
-01000100 01001111 01001110 01000101
-Proceed? [Y/n]# Y
->Hello, World!<
+BIOS: POST (Power-On Self-Test)
+UEFI: Loading bootloader
+GRUB loading /boot/vmlinuz...
+
+[   OK   ] Dawn of code…  
+[   OK   ] Kernel of curiosity loaded  
+[   OK   ] Mounting dreams…  
+[   OK   ] Checking libraries of wisdom… ok  
+[   OK   ] Networking thoughts… connected  
+[   OK   ] Initiating projects… compiling creativity  
+[   OK   ] Paths of growth established  
+[   OK   ] Ready for exploration. Welcome.  
+Yong@localhost:~$
+Yong@localhost:~$ cd /
+Yong@localhost:/$ cat WelcomeScript.sh
+-----BEGIN SCRIPT-----
+01101000 01100101 01101100 01101100 01101111
+01110111 01101111 01110010 01101100 01100100
+-----END SCRIPT-----
 ```
 
 
-## Chapter I: A Digital Odyssey
+## Chapter I: Prologue - A Humble Beginning
 <p align="center">
   <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/9a74ad19-2aaa-4fd3-a8ac-cc6b3c13c42d.jpg?raw=true">
 </p>
@@ -26,7 +39,7 @@ Proceed? [Y/n]# Y
 Humble Computer Science graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
 </p>
 
-## Chapter II: Tech Stack
+## Chapter II: Tech Stack - A Collection of Acquired Syntax & Codes
 
 <!-- Your comment here -->
 
@@ -46,14 +59,15 @@ Network:
 
 ![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=wireshark&logoColor=white)![Static Badge](https://img.shields.io/badge/OSI--7-white?style=for-the-badge&logo=cisco&logoColor=blue)![Static Badge](https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=tailscale&logoColor=white)
 
-
-OS:
+Based-System:
 
 ![Static Badge](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian&logoColor=red)![Static Badge](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
+Cloud (DevOps):
 
 
 
+## Chapter III: Careers' Chronicle — A Record of the Gains Thereof, Quietly Won
 
 - Experienced on handling OS related tasks like OS installations not limited to Windows, UbuntU and Debian, storage partition, disk deep formatting and virtual machine installation. 
 - Have a good understanding on virtualization and containerization, skilled in operating and maintaining pods and containers.
