@@ -26,18 +26,9 @@ Proceed? [Y/n]# Y
 Humble Computer Science graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
 </p>
 
-## Chapter II: Statistical Data Analysis
-<div align="center">
-  
-  [![Yong-Wai-Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-Wai-Chun&theme=dark&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Yong-Wai-Chun/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-Wai-Chun&theme=dark)](https://github.com/Yong-Wai-Chun/github-readme-stats)
+## Chapter II: Tech Stack
 
-  [![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Yong-Wai-Chun&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Yong-Wai-Chun/github-readme-stats)
-  
-</div>
-
-## Chapter III: Tech Stack
+<!-- Your comment here -->
 
 <p align="center">
   <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/c1d3876d-2a7c-4325-9114-749d84bb2194.jpg?raw=true">
