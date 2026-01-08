@@ -39,12 +39,12 @@ Yong@localhost:/$ cat WelcomeScript.sh
   <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/9a74ad19-2aaa-4fd3-a8ac-cc6b3c13c42d.jpg?raw=true">
 </p>
 <p align="justify">
-Humble Computer Science graduate from Multimedia University specialized in Data Science. Full-time DevOps practitioner, works in compact Data Center surrounded by mass-servers. Tech knowledge ranging from Operating System and Networking to Programming and Machine Learning.
+Humble Computer Science graduate from Multimedia University. Expertise in large-scaled IT, Clouds, and Infrastructure projects delivery, specialized in driving the whole project to the direction of success from team management to technical deployments. Full-time Cloud DevOps practitioner, experience ranging from deploying and commissioning huge-scaled Data Center with mass-servers by setting up and managing the system's infrastructure to deploying Cloud infra's resources for application's deployments. Tech knowledge ranging from Operating System, Cloud Computing and Networking to Programming, Big Data & Artificial Intelligence.
 </p>
 
-## Chapter II: Tech Stack - A Collection of Acquired Syntax & Codes
+## Chapter II: Tech Stack - A Collection of Acquired Syntax of Codes
 
-<!-- Your comment here -->
+<!-- https://shields.io/badges -->
 
 <p align="center">
   <img width="80%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/c1d3876d-2a7c-4325-9114-749d84bb2194.jpg?raw=true">
@@ -60,23 +60,28 @@ Programming Language:
 
 Network:
 
-![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=wireshark&logoColor=white)![Static Badge](https://img.shields.io/badge/OSI--7-white?style=for-the-badge&logo=cisco&logoColor=blue)![Static Badge](https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=tailscale&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=wireshark&logoColor=white)![Static Badge](https://img.shields.io/badge/OSI--7-white?style=for-the-badge&logo=cisco&logoColor=blue)![Static Badge](https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=tailscale&logoColor=white)![Static Badge](https://img.shields.io/badge/Firewall-yellow?style=for-the-badge&logo=fortinet&logoColor=Orange)
 
 Based-System:
 
 ![Static Badge](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian&logoColor=red)![Static Badge](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-Cloud (DevOps):
+Cloud:
 
+![Static Badge](https://img.shields.io/badge/K8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)![Static Badge](https://img.shields.io/badge/Virtual%20Machines-red?style=for-the-badge&logo=VMware&logoColor=black)![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)![Static Badge](https://img.shields.io/badge/RHOCP-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/RHOSP-red?style=for-the-badge&logo=Redhat&logoColor=black)
+
+
+IaC:
+
+![Static Badge](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=Terraform&logoColor=purple)
 
 
 ## Chapter III: Careers' Chronicle — A Record of the Gains Thereof, Quietly Won
 
-- Experienced on handling OS related tasks like OS installations not limited to Windows, UbuntU and Debian, storage partition, disk deep formatting and virtual machine installation. 
-- Have a good understanding on virtualization and containerization, skilled in operating and maintaining pods and containers.
-- Performed various network related tasks from the lowest layer to the highest layer of the OSI 7 model, IP network connectivity and routing, applications links integration such as HTTP, Diameter, M3UA etc.
-- Able to construct many ML and AI models and perform hyper-parameter tuning to have the best fitted model that is trained on a perfectly pre-processed dataset.
-- Equiped with good programming logic and concept fundamentals, able to build a website with API intergation and android apps. 
+- Achieved a major milestone by commissioning key products and successfully migrating over 10 million of users from a legacy platform to new Cloud-based Telco platform for one of the biggest Telco ISP in Malaysia - CelcomDigi (October 2024 - September 2025).
+- Recognized as Star Employee of the month for 5 consecutive months in 2024 and 2025, receiving the award starting in the third month of employment.
+- Tech Lead for the deployment of a large-scale 5GC & IT data center infrastructure, including servers, switches, fiber optics, SFPs, and full network integration. Prepared and completed technical SAT and UAT with a 100% test case pass rate and secured client sign-off within a week.
+- Completed 100% Cloud-Native Network Functions (CNF) applications deployment across two data centers on the RedHat OpenShift Container Platform (OCP) within one month in 2024.
 
 <p align="center">
   <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
