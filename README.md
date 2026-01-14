@@ -77,11 +77,13 @@ IaC:
 
 
 ## Chapter III: Careers' Chronicle — A Record of the Gains Thereof, Quietly Won
-
+### 2024
 - Achieved a major milestone by commissioning key products and successfully migrating over 10 million of users from a legacy platform to new Cloud-based Telco platform for one of the biggest Telco ISP in Malaysia - CelcomDigi (October 2024 - September 2025).
-- Recognized as Star Employee of the month for 5 consecutive months in 2024 and 2025, receiving the award starting in the third month of employment.
+- 5 times Star Employee of the month, starting in the third month of employment.
+-  Completed 100% Cloud-Native Network Functions (CNF) applications deployment across two data centers on the RedHat OpenShift Container Platform (OCP) within one month in 2024.
+### 2025
 - Tech Lead for the deployment of a large-scale 5GC & IT data center infrastructure, including servers, switches, fiber optics, SFPs, and full network integration. Prepared and completed technical SAT and UAT with a 100% test case pass rate and secured client sign-off within a week.
-- Completed 100% Cloud-Native Network Functions (CNF) applications deployment across two data centers on the RedHat OpenShift Container Platform (OCP) within one month in 2024.
+- 3 times Star Employee of the month back-to-back.
 
 <p align="center">
   <img width="100%" src="https://github.com/Yong-Wai-Chun/miscellaneous/blob/main/pic/cyberpunk.gif?raw=true">
