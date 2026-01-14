@@ -62,14 +62,17 @@ Network:
 
 ![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=wireshark&logoColor=white)![Static Badge](https://img.shields.io/badge/OSI--7-white?style=for-the-badge&logo=cisco&logoColor=blue)![Static Badge](https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=tailscale&logoColor=white)![Static Badge](https://img.shields.io/badge/Firewall-yellow?style=for-the-badge&logo=fortinet&logoColor=Orange)
 
-Based-System:
+Based-OS:
 
 ![Static Badge](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian&logoColor=red)![Static Badge](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-Cloud:
+Cloud Platforms:
+
+![Static Badge](https://img.shields.io/badge/GCP-yellow?style=for-the-badge&logo=Google)![Static Badge](https://img.shields.io/badge/Azure-blue?style=for-the-badge)![Static Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)![Static Badge](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku)
+
+Virtualization / Containerization:
 
 ![Static Badge](https://img.shields.io/badge/K8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)![Static Badge](https://img.shields.io/badge/Virtual%20Machines-red?style=for-the-badge&logo=VMware&logoColor=black)![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)![Static Badge](https://img.shields.io/badge/RHOCP-red?style=for-the-badge&logo=Redhat&logoColor=black)![Static Badge](https://img.shields.io/badge/RHOSP-red?style=for-the-badge&logo=Redhat&logoColor=black)
-
 
 IaC:
 
