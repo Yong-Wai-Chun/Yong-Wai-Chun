@@ -82,7 +82,7 @@ IaC:
 - 5 times Star Employee of the month, starting in the third month of employment.
 -  Completed 100% Cloud-Native Network Functions (CNF) applications deployment across two data centers on the RedHat OpenShift Container Platform (OCP) within one month in 2024.
 ### 2025
-- Tech Lead for the deployment of a large-scale 5GC & IT data center infrastructure, including servers, switches, fiber optics, SFPs, and full network integration. Prepared and completed technical SAT and UAT with a 100% test case pass rate and secured client sign-off within a week.
+- Tech Lead for the deployment of a large-scale 5GC & IT data center project delivery for CelcomDigi in Q2 2025, driving the virtualization installation, network establishment and service commissioning of the infrastructure.
 - 3 times Star Employee of the month back-to-back.
 
 <p align="center">
